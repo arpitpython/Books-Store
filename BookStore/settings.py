@@ -21,7 +21,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'books_app',
-    'django_elasticsearch_dsl'
+    # 'django_elasticsearch_dsl'
 ]
 
 MIDDLEWARE = [
